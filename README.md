@@ -10,12 +10,6 @@ Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
 
 Instituto: IFTS N° 24 - CABA
 
-📚 Créditos
-Alumna: Cynthia Marcela Villagra
-Docente: Prof. Matías Barreto (GitHub: @mattbarreto )
-Materia: Técnicas de Procesamiento Digital de Imágenes (2025)
-Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
-Instituto: IFTS N° 24 - CABA
 
 📸 Procesamiento_Imagenes_IFTS24
 
