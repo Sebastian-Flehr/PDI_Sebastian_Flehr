@@ -1,6 +1,6 @@
-📚 #Créditos
+📚 Créditos
 
-Alumno: Sebastián Emanuel Flehr
+#Alumno: Sebastián Emanuel Flehr
 
 Docente: Prof. Matías Barreto
 
