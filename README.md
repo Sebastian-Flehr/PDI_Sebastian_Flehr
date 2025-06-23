@@ -1,4 +1,4 @@
-📚 Créditos
+📚 #Créditos
 
 Alumno: Sebastián Emanuel Flehr
 
@@ -10,7 +10,7 @@ Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
 
 Instituto: IFTS N° 24 - CABA
 
-📸 Procesamiento_Imagenes_IFTS24
+📸 #Procesamiento_Imagenes_IFTS24
 
 Repositorio de la Materia Procesamiento Digital de Imágenes - Instituto de Formación Técnica nro 24
 
@@ -18,7 +18,7 @@ Este repositorio contiene los cuadernos, recursos y trabajos realizados para la 
 
 El objetivo de la materia es introducir los conceptos fundamentales del tratamiento digital de imágenes utilizando Python y librerías como OpenCV, scikit-image, PIL y NumPy. Los ejercicios incluyen desde la adquisición y manipulación básica hasta la segmentación, muestreo y cuantización.
 
-🛠️ Herramientas utilizadas
+🛠️ #Herramientas utilizadas
 
 Python 3.x
 
